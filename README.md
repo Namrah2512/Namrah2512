@@ -2,7 +2,7 @@
 <h3 align="center">About Me :</h3>  
  <p>
  👩‍🎓  A Junior year CS undergrad at Institute of Space Technology, Islamabad.
-<br>🐱 I'm 19 years old girl.
+<br>🐱 I'm 20 years old girl.
 <br>💫 Currently learing to code, and finding my passion.
 <br>⭐ Besides all that I love calligraphy.
 <br>👩‍💻 Constantly learning. 
